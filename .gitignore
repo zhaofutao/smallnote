@@ -1,4 +1,6 @@
 /.idea/
 /.gradle/
 /out/
-/smallnote-service/.gradle/
+/smallnote-common/build/
+/smallnote-service/build/
+/build/
