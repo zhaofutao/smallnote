@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmallnoteServiceApplication {
+public class SmallNoteServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SmallnoteServiceApplication.class, args);
+        SpringApplication.run(SmallNoteServiceApplication.class, args);
     }
 
 }
